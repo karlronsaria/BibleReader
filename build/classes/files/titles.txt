@@ -1,0 +1,66 @@
+gen:50:Genesis::
+exo:40:Exodus::
+lev:27:Leviticus::
+num:36:Numbers::
+deu:34:Deuteronomy::
+jos:24:Joshua::
+jdg:21:Judges::
+rth:4:Ruth::
+1sa:31:I Samuel:First Samuel:
+2sa:24:II Samuel:Second Samuel:
+1ki:22:I Kings:First Kings:
+2ki:25:II Kings:Second Kings:
+1ch:29:I Chronicles:First Chronicles:
+2ch:36:II Chronicles:Second Chronicles:
+ezr:10:Ezra::
+neh:13:Nehemiah::
+est:10:Esther::
+job:42:Job::
+pas:150:Psalms::
+pro:31:Proverbs::
+ecc:12:Ecclesiastes::
+sos:8:Song of Songs::
+isa:66:Isaiah::
+jer:52:Jeremiah::
+lam:5:Lamentations:The Lamentations of Jeremiah:
+ezk:48:Ezekiel::
+dan:12:Daniel::
+hos:14:Hosea::
+joe:3:Joel::
+amo:9:Amos::
+oba:1:Obadiah::
+jon:4:Jonah::
+mic:7:Micah::
+nah:3:Nahum::
+hab:3:Habakkuk::
+zep:3:Zephaniah::
+hag:2:Haggai::
+zec:14:Zechariah::
+mal:4:Malachi::
+mat:28:Matthew:The Gospel According to Matthew:
+mar:16:Mark:The Gospel According to Mark:
+luk:24:Luke:The Gospel According to Luke:
+jhn:21:John:The Gospel According to John:
+act:28:Acts:Acts of the Apostles:
+rom:16:Romans:Paul's Epistle to the Romans:
+1co:16:I Corinthians:Paul's First Epistle to the Corinthians:First Corinthians
+2co:13:II Corinthians:Paul's Second Epistle to the Corinthians:Second Corinthians
+gal:6:Galatians:Paul's Epistle to the Galatians:
+eph:6:Ephesians:Paul's Epistle to the Ephesians:
+phi:4:Philippians:Paul's Epistle to the Philippians:
+col:4:Colossians:Paul's Epistle to the Colossians:
+1th:5:I Thessalonians:Paul's First Epistle to the Thessalonians:First Thessalonians
+2th:3:II Thessalonians:Paul's Second Epistle to the Thessalonians:Second Thessalonians
+1ti:6:I Timothy:Paul's First Epistle to Timothy:First Timothy
+2ti:4:II Timothy:Paul's Second Epistle to Timothy:Second Timothy
+tit:3:Titus:Paul's Epistle to Titus:
+phm:1:Philemon:Paul's Epistle to Philemon:
+heb:13:Hebrews:The Epistle to the Hebrews:
+jam:5:James:The Epistle of James:
+1pe:5:I Peter:The First Epistle of Peter:First Peter
+2pe:3:II Peter:The Second Epistle of Peter:Second Peter
+1jo:5:I John:The First Epistle of John:First John
+2jo:1:II John:The Second Epistle of John:Second John
+3jo:1:III John:The Third Epistle of John:Third John
+jud:1:Jude:The Epistle of Jude:
+rev:22:Revelation:The Revelation of Jesus Christ:
