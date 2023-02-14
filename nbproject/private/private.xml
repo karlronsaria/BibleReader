@@ -12,16 +12,9 @@
     </editor-bookmarks>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/models/Algorithms.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/models/DatabaseQueries.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/frames/TesterFrame.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/files/style.css</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/panels/Reader.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/files/all.min.css</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/models/DatabaseConnector.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/frames/MainFrame.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/models/AddressParser.java</file>
-            <file>file:/C:/Courses/CSCI335%20-%20User%20Interface%20Design%20&amp;%20Programming/Project/What_v0.04/What/src/what/What.java</file>
+            <file>file:/C:/dev/java/What/src/what/What.java</file>
+            <file>file:/C:/dev/java/What/src/models/DatabaseConnector.java</file>
+            <file>file:/C:/dev/java/What/src/models/AddressParser.java</file>
         </group>
     </open-files>
 </project-private>
