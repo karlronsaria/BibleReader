@@ -15,12 +15,13 @@ import java.util.Random;
  *  <i>Algorithms, 4th Edition</i> by Robert Sedgewick and Kevin Wayne.
  */
 public class StringSearch {
-    private String pat;      // the pattern  // needed only for Las Vegas
-    private long patHash;    // pattern hash value
-    private int m;           // pattern length
-    private long q;          // a large prime, small enough to avoid long overflow
-    private int R;           // radix
-    private long RM;         // R^(M-1) % Q
+    private final String pat; // the pattern  // needed only for Las Vegas
+    private long patHash;     // pattern hash value
+    private int m;            // pattern length
+    private long q;           // a large prime, small enough to avoid long
+                              //   overflow
+    private int R;            // radix
+    private long RM;          // R^(M-1) % Q
     private boolean caseSensitive;
 
     /**
@@ -39,6 +40,7 @@ public class StringSearch {
      * Preprocesses the pattern string.
      *
      * @param pat the pattern string
+     * @param caseSensitive should the pattern match cases
      */
     public StringSearch(String pat, boolean caseSensitive) {
         this.pat = caseSensitive ? pat : pat.toLowerCase();      // save pattern (needed only for Las Vegas)
